@@ -1,42 +1,21 @@
-(function(){
+$(function() {
+  var template = swig.compile($('#game-presentation-template').html());
+  $.ajax({
+    dataType: 'json',
+    url: '/data/works.json',
+    success: function(json) {
+      $('#game-presentation').html(
+        template({
+          works: json.sort(function(a,b){return Math.random()>.5 ? -1 : 1;})  // 乱序
+        })
+      );
+      $(window).resize();
+    }
+  })
+});
 
-  var $button = $("<div id='source-button' class='btn btn-primary btn-xs'>&lt; &gt;</div>").click(function(){
-    var html = $(this).parent().html();
-    html = cleanSource(html);
-    $("#source-modal pre").text(html);
-    $("#source-modal").modal();
+$(window).resize(function() {
+  $('.preview').each(function(i,e){
+    $(e).children('.image').outerHeight(330 - $(e).children('.options').outerHeight());
   });
-
-  $('.bs-component [data-toggle="popover"]').popover();
-  $('.bs-component [data-toggle="tooltip"]').tooltip();
-
-  $(".bs-component").hover(function(){
-    $(this).append($button);
-    $button.show();
-  }, function(){
-    $button.hide();
-  });
-
-  function cleanSource(html) {
-    var lines = html.split(/\n/);
-
-    lines.shift();
-    lines.splice(-1, 1);
-
-    var indentSize = lines[0].length - lines[0].trim().length,
-        re = new RegExp(" {" + indentSize + "}");
-
-    lines = lines.map(function(line){
-      if (line.match(re)) {
-        line = line.substring(indentSize);
-      }
-
-      return line;
-    });
-
-    lines = lines.join("\n");
-
-    return lines;
-  }
-
-})();
+})

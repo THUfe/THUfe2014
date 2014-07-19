@@ -1,5 +1,5 @@
 body {
-    padding-top: 50px
+    padding-top: 60px
 }
 #banner {
     min-height: 300px;
@@ -56,7 +56,7 @@ footer p {
 }
 .splash {
     padding: 4em 0 2em;
-    background-color: #141d27;
+    background: url(../img/bg.jpg) 0 -60px;
     color: #fff;
     text-align: center
 }
@@ -106,9 +106,6 @@ footer p {
     border-top: none;
     text-align: center
 }
-.section-preview .preview .options p {
-    margin-bottom: 2em
-}
 .section-preview .dropdown-menu {
     text-align: left
 }
@@ -135,4 +132,17 @@ footer p {
         margin-bottom: 2em;
         text-align: center
     }
+}
+.repo-options {
+    margin-top: 1em;
+    margin-bottom: 0
+}
+.img-responsive {
+    width: 100%
+}
+.image {
+    overflow: hidden
+}
+.navbar.navbar-custom {
+    background: url(../img/bg.jpg);
 }
