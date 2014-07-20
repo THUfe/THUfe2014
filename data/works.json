@@ -79,12 +79,12 @@
 		]
 	},
 	{
-		"url": "//swingace.github.io/TheCube/",
+		"url": "//nyxspirit.github.io/Web/05_TheCube_WebGame/",
 		"thumbnail": "/data/thumbnail/5.png",
 		"title": "奇异魔方",
 		"github": {
-			"user": "swingace",
-			"repo": "swingace.github.io"
+			"user": "nyxspirit",
+			"repo": "nyxspirit.github.io"
 		},
 		"authors": [
 			{
@@ -102,8 +102,8 @@
 		"thumbnail": "/data/thumbnail/6.png",
 		"title": "中国勇夺世界杯",
 		"github": {
-			"user": "rpfish",
-			"repo": "rpfish.github.io"
+			"user": "fcpatgithub",
+			"repo": "fcpatgithub.github.io"
 		},
 		"authors": [
 			{
