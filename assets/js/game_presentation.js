@@ -2,7 +2,7 @@ $(function() {
   var template = swig.compile($('#game-presentation-template').html());
   $.ajax({
     dataType: 'json',
-    url: '/data/works.json',
+    url: 'data/works.json',
     success: function(json) {
       $('#game-presentation').html(
         template({

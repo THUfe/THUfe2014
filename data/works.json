@@ -1,7 +1,7 @@
 [
 	{
 		"url": "//gengzhenglin.github.io/game.html",
-		"thumbnail": "/data/thumbnail/1.png",
+		"thumbnail": "data/thumbnail/1.png",
 		"title": "Shift it",
 		"github": {
 			"user": "gengzhenglin",
@@ -20,7 +20,7 @@
 	},
 	{
 		"url": "//jessicayuan2012.github.io/game_v1.0.0/",
-		"thumbnail": "/data/thumbnail/2.png",
+		"thumbnail": "data/thumbnail/2.png",
 		"title": "DOT CLEAN-UP",
 		"github": {
 			"user": "jessicayuan2012",
@@ -41,7 +41,7 @@
 	},
 	{
 		"url": "//pengyou12.github.io/fe/webgame/index.html",
-		"thumbnail": "/data/thumbnail/3.png",
+		"thumbnail": "data/thumbnail/3.png",
 		"title": "Just Shoot!",
 		"github": {
 			"user": "pengyou12",
@@ -60,7 +60,7 @@
 	},
 	{
 		"url": "//yangyanzhe.github.io/game/index.html",
-		"thumbnail": "/data/thumbnail/4.png",
+		"thumbnail": "data/thumbnail/4.png",
 		"title": "colliball",
 		"github": {
 			"user": "yangyanzhe",
@@ -80,7 +80,7 @@
 	},
 	{
 		"url": "//nyxspirit.github.io/Web/05_TheCube_WebGame/",
-		"thumbnail": "/data/thumbnail/5.png",
+		"thumbnail": "data/thumbnail/5.png",
 		"title": "奇异魔方",
 		"github": {
 			"user": "nyxspirit",
@@ -99,7 +99,7 @@
 	},
 	{
 		"url": "//fcpatgithub.github.io/game/",
-		"thumbnail": "/data/thumbnail/6.png",
+		"thumbnail": "data/thumbnail/6.png",
 		"title": "中国勇夺世界杯",
 		"github": {
 			"user": "fcpatgithub",
@@ -118,7 +118,7 @@
 	},
 	{
 		"url": "//thu-wyw.github.io/Game/",
-		"thumbnail": "/data/thumbnail/7.png",
+		"thumbnail": "data/thumbnail/7.png",
 		"title": "INFINITE",
 		"github": {
 			"user": "thu-wyw",
@@ -138,7 +138,7 @@
 	},
 	{
 		"url": "//slf12.github.io/Webdazuoye/index.html",
-		"thumbnail": "/data/thumbnail/8.png",
+		"thumbnail": "data/thumbnail/8.png",
 		"title": "Quell",
 		"github": {
 			"user": "slf12",
@@ -158,7 +158,7 @@
 	},
 	{
 		"url": "//yueyfthu.github.io/game/game_index.html",
-		"thumbnail": "/data/thumbnail/9.png",
+		"thumbnail": "data/thumbnail/9.png",
 		"title": "Angry Susliks",
 		"github": {
 			"user": "yueyfthu",
@@ -177,7 +177,7 @@
 	},
 	{
 		"url": "//softshadow.github.io/game/pixeladventure",
-		"thumbnail": "/data/thumbnail/10.png",
+		"thumbnail": "data/thumbnail/10.png",
 		"title": "Pixel Adventure",
 		"github": {
 			"user": "softshadow",
@@ -196,7 +196,7 @@
 	},
 	{
 		"url": "//hyeondey.github.io/whack-a-mole",
-		"thumbnail": "/data/thumbnail/11.png",
+		"thumbnail": "data/thumbnail/11.png",
 		"title": "::Whack-a-mole!",
 		"github": {
 			"user": "hyeondey",
@@ -215,7 +215,7 @@
 	},
 	{
 		"url": "//hacker.siyuan12.com/frontend/hw5",
-		"thumbnail": "/data/thumbnail/12.png",
+		"thumbnail": "data/thumbnail/12.png",
 		"title": "Crazy Colors",
 		"github": {
 			"user": "tongtongliu",
@@ -235,7 +235,7 @@
 	},
 	{
 		"url": "//zhongyx12.github.io/I_wanna/I_wanna.html",
-		"thumbnail": "/data/thumbnail/13.png",
+		"thumbnail": "data/thumbnail/13.png",
 		"title": "I wanna be a programmer",
 		"github": {
 			"user": "zhongyx12",
@@ -254,7 +254,7 @@
 	},
 	{
 		"url": "//children19930928.github.io/LastIsWorst/",
-		"thumbnail": "/data/thumbnail/14.jpg",
+		"thumbnail": "data/thumbnail/14.jpg",
 		"title": "Last Is Worst",
 		"github": {
 			"user": "children19930928",
@@ -273,7 +273,7 @@
 	},
 	{
 		"url": "//WebClassFinal.github.io",
-		"thumbnail": "/data/thumbnail/15.png",
+		"thumbnail": "data/thumbnail/15.png",
 		"title": "Crazy Mario",
 		"github": {
 			"user": "WebClassFinal",
@@ -292,7 +292,7 @@
 	},
 	{
 		"url": "//zbww.github.io/fe/g/",
-		"thumbnail": "/data/thumbnail/16.png",
+		"thumbnail": "data/thumbnail/16.png",
 		"title": "Endless Sea",
 		"github": {
 			"user": "zbww",
@@ -312,7 +312,7 @@
 	},
 	{
 		"url": "//thu12czz.github.io/game/index.html",
-		"thumbnail": "/data/thumbnail/17.png",
+		"thumbnail": "data/thumbnail/17.png",
 		"title": "Forget",
 		"github": {
 			"user": "thu12czz",
@@ -331,7 +331,7 @@
 	},
 	{
 		"url": "//nezharen.github.io/share/2/",
-		"thumbnail": "/data/thumbnail/18.png",
+		"thumbnail": "data/thumbnail/18.png",
 		"title": "クラナドの一日",
 		"github": {
 			"user": "nezharen",
@@ -350,7 +350,7 @@
 	},
 	{
 		"url": "//lishuwnc.github.io/Game/index.html",
-		"thumbnail": "/data/thumbnail/19.png",
+		"thumbnail": "data/thumbnail/19.png",
 		"title": "趣味轮盘",
 		"github": {
 			"user": "lishuwnc",
@@ -369,7 +369,7 @@
 	},
 	{
 		"url": "//wangyh-thss.github.io/game/FEGame/index.html",
-		"thumbnail": "/data/thumbnail/20.png",
+		"thumbnail": "data/thumbnail/20.png",
 		"title": "我就不会取名",
 		"github": {
 			"user": "wangyh-thss",
@@ -388,7 +388,7 @@
 	},
 	{
 		"url": "//mrchoijh.github.io/fe/hw5/src/index.html",
-		"thumbnail": "/data/thumbnail/21.png",
+		"thumbnail": "data/thumbnail/21.png",
 		"title": "Puzzle Game",
 		"github": {
 			"user": "mrchoijh",
@@ -407,7 +407,7 @@
 	},
 	{
 		"url": "//biaocx12.github.io/project.html",
-		"thumbnail": "/data/thumbnail/22.png",
+		"thumbnail": "data/thumbnail/22.png",
 		"title": "疯狂坦克 Defense",
 		"github": {
 			"user": "biaocx12",
@@ -426,7 +426,7 @@
 	},
 	{
 		"url": "//stzhang.github.io/FrontEnd/xeno/",
-		"thumbnail": "/data/thumbnail/23.png",
+		"thumbnail": "data/thumbnail/23.png",
 		"title": "Tower Defense",
 		"github": {
 			"user": "stzhang",
@@ -446,7 +446,7 @@
 	},
 	{
 		"url": "//thuswcj.github.io/game/game.html",
-		"thumbnail": "/data/thumbnail/24.png",
+		"thumbnail": "data/thumbnail/24.png",
 		"title": "Fort Charlie",
 		"github": {
 			"user": "thuswcj",
@@ -465,7 +465,7 @@
 	},
 	{
 		"url": "//yangchenhao.github.io/fe/project/index.html",
-		"thumbnail": "/data/thumbnail/25.png",
+		"thumbnail": "data/thumbnail/25.png",
 		"title": "羊驼驼大作战",
 		"github": {
 			"user": "yangchenhao",
@@ -484,7 +484,7 @@
 	},
 	{
 		"url": "//myxof.github.io/MagicTiles/MagicTiles.html",
-		"thumbnail": "/data/thumbnail/26.png",
+		"thumbnail": "data/thumbnail/26.png",
 		"title": "Magic Tiles",
 		"github": {
 			"user": "zhiheng3",
@@ -503,7 +503,7 @@
 	},
 	{
 		"url": "//levythu.github.io/page_homework/games/film.html",
-		"thumbnail": "/data/thumbnail/27.png",
+		"thumbnail": "data/thumbnail/27.png",
 		"title": "WAR OF WORMS",
 		"github": {
 			"user": "levythu",
@@ -522,7 +522,7 @@
 	},
 	{
 		"url": "//yutingwang.github.io/MyGame/index.html",
-		"thumbnail": "/data/thumbnail/28.png",
+		"thumbnail": "data/thumbnail/28.png",
 		"title": "Light From Stars",
 		"github": {
 			"user": "yutingwang",
@@ -542,7 +542,7 @@
 	},
 	{
 		"url": "//xzr12.github.io/hw5/",
-		"thumbnail": "/data/thumbnail/29.png",
+		"thumbnail": "data/thumbnail/29.png",
 		"title": "SNAKE",
 		"github": {
 			"user": "xzr12",
@@ -562,7 +562,7 @@
 	},
 	{
 		"url": "//yangzq12.github.io/bricks/bricks.html",
-		"thumbnail": "/data/thumbnail/30.png",
+		"thumbnail": "data/thumbnail/30.png",
 		"title": "Arkanoid",
 		"github": {
 			"user": "yangzq12",
@@ -582,7 +582,7 @@
 	},
 	{
 		"url": "//yuzeming.github.io/webGoo/",
-		"thumbnail": "/data/thumbnail/31.png",
+		"thumbnail": "data/thumbnail/31.png",
 		"title": "WebGoo",
 		"github": {
 			"user": "yuzeming",
@@ -606,7 +606,7 @@
 	},
 	{
 		"url": "//dytwest.github.io/Game.html",
-		"thumbnail": "/data/thumbnail/32.png",
+		"thumbnail": "data/thumbnail/32.png",
 		"title": "打飞机",
 		"github": {
 			"user": "dytwest",
@@ -625,7 +625,7 @@
 	},
 	{
 		"url": "//nickcat.github.io/2012080073.2012080068/index1.html",
-		"thumbnail": "/data/thumbnail/33.png",
+		"thumbnail": "data/thumbnail/33.png",
 		"title": "Alien Turtle Invasion Canvas Game",
 		"github": {
 			"user": "nickcat",
