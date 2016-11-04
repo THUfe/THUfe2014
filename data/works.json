@@ -291,17 +291,17 @@
 		]
 	},
 	{
-		"url": "//zbww.github.io/fe/g/",
+		"url": "//b-z.github.io/fe/g/",
 		"thumbnail": "/data/thumbnail/16.png",
 		"title": "Endless Sea",
 		"github": {
-			"user": "zbww",
-			"repo": "zbww.github.io"
+			"user": "b-z",
+			"repo": "b-z.github.io"
 		},
 		"authors": [
 			{
 				"name": "周伯威",
-				"homepage": "//zbww.github.io/"
+				"homepage": "//bowei.me/"
 			},
 			{
 				"name": "林杨湄",
